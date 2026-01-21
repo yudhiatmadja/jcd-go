@@ -8,8 +8,8 @@ import (
 )
 
 func SeedAdmin(db *sql.DB){
-	email := "admin@jagad.com"
-	password := "admin123"
+	email := "thisisyudhi01@gmail.com"
+	password := "4dm1nYudh1D4R1"
 
 	// Check if admin already exists
 	var exists bool
